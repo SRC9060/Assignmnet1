@@ -63,10 +63,9 @@ body {
   align-items: center;
   padding: 60px;
   gap: 60px;
-  height: 100vh;
+  height: 83vh;
   overflow: hidden;
 }
-
 
 .hero-desc {
   flex: 1;
